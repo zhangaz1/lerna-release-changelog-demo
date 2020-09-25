@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest",
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s",
-    "version": "standard-version && git push --follow-tags && npm publish",
+    "version": "standard-version --no-verify && git push --follow-tags && npm publish",
     "release": "semantic-release"
   },
   "repository": {
