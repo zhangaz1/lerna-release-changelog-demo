@@ -37,3 +37,8 @@ jobs:
 
       - name: Code Coverage
         uses: codecov/codecov-action@v1
+
+      - name: Release
+        env:
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+        run: npx semantic-release
