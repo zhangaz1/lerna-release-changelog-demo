@@ -1,13 +1,13 @@
 {
   "name": "lerna-release-changelog-demo",
-  "version": "4.7.1-alpha.0",
+  "version": "5.0.0-alpha.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest",
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s",
     "version": "standard-version --no-verify && git push --follow-tags && npm publish",
-    "alpha-version": "standard-version --prerelease alpha --no-verify && git push --follow-tags && npm publish",
+    "alpha-version": "standard-version --release-as major --prerelease alpha --no-verify && git push --follow-tags && npm publish",
     "release": "semantic-release"
   },
   "repository": {
