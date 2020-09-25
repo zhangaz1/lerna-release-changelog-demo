@@ -2,16 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [4.5.16](https://github.com/zhangaz1/lerna-release-changelog-demo/compare/v4.5.15...v4.5.16) (2020-09-25)
+
 ### [4.5.15](https://github.com/zhangaz1/lerna-release-changelog-demo/compare/v4.5.12...v4.5.15) (2020-09-25)
 
 ### [4.5.12](https://github.com/zhangaz1/lerna-release-changelog-demo/compare/v4.5.10...v4.5.12) (2020-09-25)
 
 ### [4.5.10](https://github.com/zhangaz1/lerna-release-changelog-demo/compare/v4.5.8...v4.5.10) (2020-09-25)
 
-
 ### Bug Fixes
 
-* test ([b46257a](https://github.com/zhangaz1/lerna-release-changelog-demo/commit/b46257a07182228fdd17bb783deb99c31da31e40))
+- test ([b46257a](https://github.com/zhangaz1/lerna-release-changelog-demo/commit/b46257a07182228fdd17bb783deb99c31da31e40))
 
 ### [4.5.8](https://github.com/zhangaz1/lerna-release-changelog-demo/compare/v4.5.6...v4.5.8) (2020-09-25)
 
