@@ -2,6 +2,29 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 2.0.0 (2020-09-25)
+
+
+### ⚠ BREAKING CHANGES
+
+* release
+
+### Features
+
+* add github workflow: release ([6fa3b8c](https://github.com/zhangaz1/lerna-release-changelog-demo/commit/6fa3b8c751a107cebc09c3e184512b42d560f0c8))
+* feature: 2 ([6a3b061](https://github.com/zhangaz1/lerna-release-changelog-demo/commit/6a3b061fafdd7868f5384484137dd4199f8b3ddc))
+* **all:** add feature1 ([11f494b](https://github.com/zhangaz1/lerna-release-changelog-demo/commit/11f494b353d95aba19b54b7f9365cee5505272fa))
+
+
+### Bug Fixes
+
+* fix workflow release failed ([9d740c6](https://github.com/zhangaz1/lerna-release-changelog-demo/commit/9d740c6a47437b75be6ee7b0023e67d8906cb2b0))
+* fix workflow yml ([aff3f61](https://github.com/zhangaz1/lerna-release-changelog-demo/commit/aff3f6131ec2c17df37633a069d8459fccf8687d))
+* fix: workflow, remove run ci ([7c05f1c](https://github.com/zhangaz1/lerna-release-changelog-demo/commit/7c05f1c7b6ff69dc9882ba9d5369c6ed63a15820))
+
+
+* add sematic-release ([00083eb](https://github.com/zhangaz1/lerna-release-changelog-demo/commit/00083eb94a3737c9b7350d17288ffc90d2ff4b58))
+
 ## [0.2.0](https://github.com/zhangaz1/lerna-release-changelog-demo/compare/v0.0.3...v0.2.0) (2020-09-25)
 
 ### ⚠ BREAKING CHANGES
