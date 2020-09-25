@@ -1,6 +1,6 @@
 {
   "name": "lerna-release-changelog-demo",
-  "version": "5.4.0",
+  "version": "5.6.0",
   "description": "",
   "main": "index.js",
   "scripts": {
