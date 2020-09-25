@@ -14,7 +14,7 @@
     "url": "https://github.com/zhangaz1/lerna-release-changelog-demo.git"
   },
   "author": "zhangaz1",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/zhangaz1/lerna-release-changelog-demo/issues"
   },

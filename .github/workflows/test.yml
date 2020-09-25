@@ -9,7 +9,7 @@ on:
       - master
 
 jobs:
-  build:
+  test:
     runs-on: ubuntu-latest
 
     steps:
@@ -37,9 +37,3 @@ jobs:
 
       - name: Code Coverage
         uses: codecov/codecov-action@v1
-
-      - name: Release
-        env:
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN}}
-        run: npm run release
