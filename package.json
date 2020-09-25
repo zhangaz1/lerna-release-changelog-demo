@@ -8,6 +8,7 @@
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s",
     "prepublish": "standard-version",
     "publish": "git push --follow-tags origin master && npm publish",
+    "npmpublish": "npm run publish",
     "release": "semantic-release"
   },
   "repository": {
