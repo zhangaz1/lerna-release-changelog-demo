@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.4.0](https://github.com/zhangaz1/lerna-release-changelog-demo/compare/v4.3.0...v4.4.0) (2020-09-25)
+
+### Features
+
+- rmmove husky commitlint ([788e29c](https://github.com/zhangaz1/lerna-release-changelog-demo/commit/788e29cd52f3e8b53797939abb28df37af09fbf8))
+
 ## [4.3.0](https://github.com/zhangaz1/lerna-release-changelog-demo/compare/v4.2.0...v4.3.0) (2020-09-25)
 
 ### Features
