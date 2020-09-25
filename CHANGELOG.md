@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.1.0](https://github.com/zhangaz1/lerna-release-changelog-demo/compare/v0.2.0...v4.1.0) (2020-09-25)
+
+### Features
+
+- add github workflow: release ([6fa3b8c](https://github.com/zhangaz1/lerna-release-changelog-demo/commit/6fa3b8c751a107cebc09c3e184512b42d560f0c8))
+- update license ISC to MIT ([be3024e](https://github.com/zhangaz1/lerna-release-changelog-demo/commit/be3024ee4da0d252e0f76fd81c427ab9da2a46f0))
+
+### Bug Fixes
+
+- fix workflow release failed ([9d740c6](https://github.com/zhangaz1/lerna-release-changelog-demo/commit/9d740c6a47437b75be6ee7b0023e67d8906cb2b0))
+- fix workflow yml ([aff3f61](https://github.com/zhangaz1/lerna-release-changelog-demo/commit/aff3f6131ec2c17df37633a069d8459fccf8687d))
+- fix: workflow, remove run ci ([7c05f1c](https://github.com/zhangaz1/lerna-release-changelog-demo/commit/7c05f1c7b6ff69dc9882ba9d5369c6ed63a15820))
+
 ## [0.2.0](https://github.com/zhangaz1/lerna-release-changelog-demo/compare/v0.0.3...v0.2.0) (2020-09-25)
 
 ### ⚠ BREAKING CHANGES
