@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [4.5.6](https://github.com/zhangaz1/lerna-release-changelog-demo/compare/v4.5.4...v4.5.6) (2020-09-25)
+
+### Bug Fixes
+
+- fix script: version to skip commit lint verify ([a206cb8](https://github.com/zhangaz1/lerna-release-changelog-demo/commit/a206cb8b6bc3982a428f2f0e7d3a78ddb5de6557))
+
 ### [4.5.4](https://github.com/zhangaz1/lerna-release-changelog-demo/compare/v4.5.2...v4.5.4) (2020-09-25)
 
 ### Bug Fixes
