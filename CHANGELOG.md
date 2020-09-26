@@ -2,6 +2,28 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.6.0](https://github.com/zhangaz1/lerna-release-changelog-demo/compare/v5.4.0...v5.6.0) (2020-09-25)
+
+
+### Features
+
+* use npm run release ([2eba21f](https://github.com/zhangaz1/lerna-release-changelog-demo/commit/2eba21f4a26ab477778f633f9e9e66f3c88082c4))
+
+## [5.4.0](https://github.com/zhangaz1/lerna-release-changelog-demo/compare/v5.2.0...v5.4.0) (2020-09-25)
+
+
+### Features
+
+* update feature 2 ([6da4317](https://github.com/zhangaz1/lerna-release-changelog-demo/commit/6da4317f429ede4024cf1b957f3702aa9af5c175))
+
+## [5.2.0](https://github.com/zhangaz1/lerna-release-changelog-demo/compare/v5.0.0...v5.2.0) (2020-09-25)
+
+
+### Features
+
+* add sematic-release config ([6c3f838](https://github.com/zhangaz1/lerna-release-changelog-demo/commit/6c3f83888a13c02cbfe985ea213dfb924803420a))
+* reuse sematic-release ([b6fcf68](https://github.com/zhangaz1/lerna-release-changelog-demo/commit/b6fcf68c1372f78ca7cb7dcb0ac138ef7f545501))
+
 ## [5.0.0](https://github.com/zhangaz1/lerna-release-changelog-demo/compare/v5.0.0-alpha.0...v5.0.0) (2020-09-25)
 
 ## [5.0.0-alpha.0](https://github.com/zhangaz1/lerna-release-changelog-demo/compare/v4.7.1-alpha.0...v5.0.0-alpha.0) (2020-09-25)
