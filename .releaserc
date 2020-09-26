@@ -1,3 +1,6 @@
 {
-  "branches": ["release", "next", "beta", "alpha"]
+  "branches": [
+    { "name": "master", "channel": "master", "prerelease": false },
+    { "name": "next", "channel": "next", "prerelease": "alpha" }
+  ]
 }
