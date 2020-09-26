@@ -1,0 +1,26 @@
+{
+  "name": "pkg1",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "zhangaz1 <zhangaz1@hotmail.com>",
+  "homepage": "https://github.com/zhangaz1/lerna-release-changelog-demo/tree/master/packages/pkg1#readme",
+  "license": "MIT",
+  "main": "lib/pkg1.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangaz1/lerna-release-changelog-demo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/zhangaz1/lerna-release-changelog-demo/issues"
+  }
+}
