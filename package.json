@@ -11,11 +11,6 @@
     "release": "semantic-release",
     "qiwi": "multi-semantic-release"
   },
-  "workspaces": {
-    "packages": [
-      "packages/*"
-    ]
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/zhangaz1/lerna-release-changelog-demo.git"
@@ -29,7 +24,7 @@
   "devDependencies": {
     "@commitlint/cli": "^11.0.0",
     "@commitlint/config-conventional": "^11.0.0",
-    "@qiwi/multi-semantic-release": "^3.8.4",
+    "@commitlint/config-lerna-scopes": "^11.0.0",
     "@types/jest": "^26.0.14",
     "commitizen": "^4.2.1",
     "conventional-changelog-cli": "^2.1.0",
