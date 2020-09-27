@@ -1,6 +1,6 @@
 {
   "name": "pkg1",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "> TODO: description",
   "author": "zhangaz1 <zhangaz1@hotmail.com>",
   "homepage": "https://github.com/zhangaz1/lerna-release-changelog-demo/tree/master/packages/pkg1#readme",
