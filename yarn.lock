@@ -296,6 +296,13 @@
     resolve-global "1.0.0"
     yargs "^15.1.0"
 
+"@commitlint/config-conventional@^11.0.0":
+  version "11.0.0"
+  resolved "https://registry.npm.taobao.org/@commitlint/config-conventional/download/@commitlint/config-conventional-11.0.0.tgz#3fa300a1b639273946de3c3f15e1cda518333422"
+  integrity sha1-P6MAobY5JzlG3jw/FeHNpRgzNCI=
+  dependencies:
+    conventional-changelog-conventionalcommits "^4.3.1"
+
 "@commitlint/config-lerna-scopes@^11.0.0":
   version "11.0.0"
   resolved "https://registry.npm.taobao.org/@commitlint/config-lerna-scopes/download/@commitlint/config-lerna-scopes-11.0.0.tgz#4152287c5d13ea844160507523b2f98b015adf4a"
@@ -2873,7 +2880,7 @@ conventional-changelog-config-spec@2.1.0:
   resolved "https://registry.npm.taobao.org/conventional-changelog-config-spec/download/conventional-changelog-config-spec-2.1.0.tgz#874a635287ef8b581fd8558532bf655d4fb59f2d"
   integrity sha1-h0pjUofvi1gf2FWFMr9lXU+1ny0=
 
-conventional-changelog-conventionalcommits@4.4.0, conventional-changelog-conventionalcommits@^4.4.0:
+conventional-changelog-conventionalcommits@4.4.0, conventional-changelog-conventionalcommits@^4.3.1, conventional-changelog-conventionalcommits@^4.4.0:
   version "4.4.0"
   resolved "https://registry.npm.taobao.org/conventional-changelog-conventionalcommits/download/conventional-changelog-conventionalcommits-4.4.0.tgz?cache=0&sync_timestamp=1597209405850&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fconventional-changelog-conventionalcommits%2Fdownload%2Fconventional-changelog-conventionalcommits-4.4.0.tgz#8d96687141c9bbd725a89b95c04966d364194cd4"
   integrity sha1-jZZocUHJu9clqJuVwElm02QZTNQ=
