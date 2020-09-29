@@ -1,6 +1,6 @@
 {
   "name": "lerna-release-changelog-demo_pkg1",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "> TODO: description",
   "author": "zhangaz1 <zhangaz1@hotmail.com>",
   "homepage": "https://github.com/zhangaz1/lerna-release-changelog-demo/tree/master/packages/pkg1#readme",

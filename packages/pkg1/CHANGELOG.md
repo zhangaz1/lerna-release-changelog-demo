@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.2](https://github.com/zhangaz1/lerna-release-changelog-demo/compare/lerna-release-changelog-demo_pkg1@0.2.1...lerna-release-changelog-demo_pkg1@0.2.2) (2020-09-29)
+
+### Bug Fixes
+
+- test publish ([7070705](https://github.com/zhangaz1/lerna-release-changelog-demo/commit/7070705125914eee07f72d9bb0fb5200d8fab99c))
+
 ## [0.2.1](https://github.com/zhangaz1/lerna-release-changelog-demo/compare/lerna-release-changelog-demo_pkg1@0.2.0...lerna-release-changelog-demo_pkg1@0.2.1) (2020-09-27)
 
 ### Bug Fixes
