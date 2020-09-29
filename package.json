@@ -23,7 +23,6 @@
   "homepage": "https://github.com/zhangaz1/lerna-release-changelog-demo#readme",
   "devDependencies": {
     "@commitlint/cli": "^11.0.0",
-    "@commitlint/config-conventional": "^11.0.0",
     "@commitlint/config-lerna-scopes": "^11.0.0",
     "@types/jest": "^26.0.14",
     "commitizen": "^4.2.1",
